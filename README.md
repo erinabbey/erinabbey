@@ -2,9 +2,8 @@
 
 ### Connect with me:
 
-- 🌱 I’m currently learning Reactjs 🤣
-- 👯 
-- ⚡ Fun fact: I love cats, dogs
+- 🌱 I’m currently learning Reactjs
+- 👯 Let collaborate if you interested in my project
 
 
 ### Connect with me:
