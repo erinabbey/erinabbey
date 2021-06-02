@@ -3,7 +3,7 @@
 ### Connect with me:
 
 - 🌱 I’m currently learning Reactjs
-- 👯 Let collaborate if you interested in my project
+- 👯 Let collaborate if you are interested in my project
 
 
 ### Connect with me:
