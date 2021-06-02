@@ -6,9 +6,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love cats, dogs
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/album/40TZNoA3ePd2eFXzd4dtB2)
 
 ### Connect with me:
 
@@ -30,6 +27,9 @@
 
 <br />
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/album/40TZNoA3ePd2eFXzd4dtB2)
 
 [facebook]: https://www.facebook.com/ftthzZ
 [instagram]: https://instagram.com/erinabbey_
