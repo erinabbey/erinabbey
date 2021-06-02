@@ -10,6 +10,7 @@
 
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype]
 
 <br />
 
@@ -30,6 +31,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/album/40TZNoA3ePd2eFXzd4dtB2)
 
+[skype]: https://www.skype.live:.cid.93ae6f8d6ae19e43
 [facebook]: https://www.facebook.com/ftthzZ
 [instagram]: https://instagram.com/erinabbey_
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
