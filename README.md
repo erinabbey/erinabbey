@@ -30,6 +30,6 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/album/40TZNoA3ePd2eFXzd4dtB2)
 
-[skype]: https://www.skype.live:.cid.93ae6f8d6ae19e43
+[skype]: https://join.skype.com/invite/WrTm0N2yeVvw
 [facebook]: https://www.facebook.com/ftthzZ
 [instagram]: https://instagram.com/erinabbey_
