@@ -1,7 +1,7 @@
 ### Hi there, I'm Ngoc Huyen 👋
 
 - 🌱 I’m currently learning Reactjs
-- 👯 Let collaborate if you are interested in my project
+- 👯 Let's collaborate if you are interested in my project
 
 
 ### Connect with me:
