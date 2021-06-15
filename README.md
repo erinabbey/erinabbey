@@ -1,4 +1,4 @@
-### Hi there, I'm Ngoc Huyen 👋
+### Hi there, I'm Ngoc Huyen Nguyen 👋
 
 - 🌱 I’m currently learning Reactjs
 - 👯 Let's collaborate if you are interested in my project
