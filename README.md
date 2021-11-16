@@ -25,5 +25,5 @@
 
 
 [skype]: https://join.skype.com/invite/WrTm0N2yeVvw
-[facebook]: https://www.facebook.com/maayftth
+[facebook]: https://www.facebook.com/maayfthz
 [instagram]: https://instagram.com/erinabbey_
