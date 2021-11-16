@@ -23,10 +23,7 @@
 
 <br />
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/album/40TZNoA3ePd2eFXzd4dtB2)
 
 [skype]: https://join.skype.com/invite/WrTm0N2yeVvw
-[facebook]: https://www.facebook.com/ftthzZ
+[facebook]: https://www.facebook.com/maayftth
 [instagram]: https://instagram.com/erinabbey_
